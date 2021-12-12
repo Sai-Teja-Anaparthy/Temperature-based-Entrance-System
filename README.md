@@ -1,1 +1,3 @@
 # Temperature-based-Entrance-System
+
+Our idea for this project is to control the spread of covid-19 by designing and implementing a Temperature Sensor Entrance System. At the entrance of any room we will be placing a Thermal Camera which will measure the temperature and display it on the LCD/OLED, if the temperature is at the normal level (97.9F to 100.4F) there will be a message on LCD/OLED that “Good to Go” and green led lights up which indicates you can enter the room, but when the temperature range is above the normal temperature of a human which is measured by thermal camera then there will be a message on LCD/OLED stating that “Covid- Risk” and buzzer turns on and Red led indicating you to stop entering to room.!
